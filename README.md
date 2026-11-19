@@ -1,16 +1,21 @@
-## Hi there 👋
+# Salut, moi c'est Lydéric 👋
 
-<!--
-**Amen1011/Amen1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Informatique de Gestion (IG) - IUT / Université de Parakou.
+Objectif : devenir développeur full-stack IA + sécurité.
 
-Here are some ideas to get you started:
+### Mon projet en cours - Mémoire
+Application de gestion pour petits commerçants, avec un assistant IA qui répond en langage naturel.
+Exemple : « quels produits vont manquer cette semaine ? »
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ce que je construis en ce moment
+- Phase 0 : Socle et cadrage - Git, GitHub, pitch du mémoire
+- 3 fonctions du MVP : produits & stock, ventes, rapport simple
+
+### Ce que j'apprends
+- Python, algorithmes
+- Backend : FastAPI, SQL / PostgreSQL
+- IA appliquée : LLM, RAG, function calling
+- Sécurité : OWASP, injection de prompt, isolation des données
+
+### Objectif
+Soutenance début juillet 2027, puis transformer ce mémoire en vrai produit.
