@@ -1,21 +1,24 @@
-# Salut, moi c'est Lydéric 👋
+# 𝑺𝒂𝒍𝒖𝒕, 𝒎𝒐𝒊 𝒄'𝒆𝒔𝒕 𝑳𝒚𝒅é𝒓𝒊𝒄 👋
 
-Étudiant en Informatique de Gestion (IG) - IUT / Université de Parakou.
-Objectif : devenir développeur full-stack IA + sécurité.
+É𝒕𝒖𝒅𝒊𝒂𝒏𝒕 𝒆𝒏 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒒𝒖𝒆 𝒅𝒆 𝑮𝒆𝒔𝒕𝒊𝒐𝒏 à 𝒍'𝑰𝑼𝑻 / 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕é 𝒅𝒆 𝑷𝒂𝒓𝒂𝒌𝒐𝒖.
+𝑱𝒆 𝒗𝒊𝒔𝒆 𝒍𝒆 𝒎é𝒕𝒊𝒆𝒓 𝒅𝒆 𝒅é𝒗𝒆𝒍𝒐𝒑𝒑𝒆𝒖𝒓 𝒇𝒖𝒍𝒍-𝒔𝒕𝒂𝒄𝒌, 𝒔𝒑é𝒄𝒊𝒂𝒍𝒊𝒔é 𝒆𝒏 𝑰𝑨 𝒂𝒑𝒑𝒍𝒊𝒒𝒖é𝒆 𝒆𝒕 𝒆𝒏 𝒔é𝒄𝒖𝒓𝒊𝒕é.
 
-### Mon projet en cours - Mémoire
-Application de gestion pour petits commerçants, avec un assistant IA qui répond en langage naturel.
-Exemple : « quels produits vont manquer cette semaine ? »
+## 𝑷𝒓𝒐𝒋𝒆𝒕 𝒑𝒓𝒊𝒏𝒄𝒊𝒑𝒂𝒍 : 𝒎é𝒎𝒐𝒊𝒓𝒆 𝒅𝒆 𝒇𝒊𝒏 𝒅'é𝒕𝒖𝒅𝒆𝒔 (2027)
+𝑼𝒏𝒆 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒅𝒆 𝒈𝒆𝒔𝒕𝒊𝒐𝒏 𝒑𝒐𝒖𝒓 𝒑𝒆𝒕𝒊𝒕𝒔 𝒄𝒐𝒎𝒎𝒆𝒓ç𝒂𝒏𝒕𝒔, 𝒂𝒗𝒆𝒄 𝒖𝒏 𝒂𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑰𝑨
+𝒒𝒖𝒊 𝒓é𝒑𝒐𝒏𝒅 𝒆𝒏 𝒍𝒂𝒏𝒈𝒂𝒈𝒆 𝒏𝒂𝒕𝒖𝒓𝒆𝒍 (« 𝒒𝒖𝒆𝒍𝒔 𝒑𝒓𝒐𝒅𝒖𝒊𝒕𝒔 𝒗𝒐𝒏𝒕 𝒎𝒂𝒏𝒒𝒖𝒆𝒓 𝒄𝒆𝒕𝒕𝒆 𝒔𝒆𝒎𝒂𝒊𝒏𝒆 ? »).
 
-### Ce que je construis en ce moment
-- Phase 0 : Socle et cadrage - Git, GitHub, pitch du mémoire
-- 3 fonctions du MVP : produits & stock, ventes, rapport simple
+**𝑭𝒐𝒏𝒄𝒕𝒊𝒐𝒏𝒔 𝒅𝒖 𝑴𝑽𝑷 :**
+- 𝑺𝒕𝒐𝒄𝒌 : 𝒑𝒓𝒐𝒅𝒖𝒊𝒕𝒔, 𝒆𝒏𝒕𝒓é𝒆𝒔 𝒆𝒕 𝒔𝒐𝒓𝒕𝒊𝒆𝒔, 𝒂𝒍𝒆𝒓𝒕𝒆𝒔 𝒅𝒆 𝒔𝒕𝒐𝒄𝒌 𝒃𝒂𝒔
+- 𝑽𝒆𝒏𝒕𝒆𝒔 : 𝒆𝒏𝒓𝒆𝒈𝒊𝒔𝒕𝒓𝒆𝒎𝒆𝒏𝒕 𝒆𝒕 𝒕𝒐𝒕𝒂𝒍 𝒅𝒖 𝒋𝒐𝒖𝒓
+- 𝑫𝒆𝒕𝒕𝒆𝒔 𝒄𝒍𝒊𝒆𝒏𝒕𝒔 : 𝒗𝒆𝒏𝒕𝒆𝒔 à 𝒄𝒓é𝒅𝒊𝒕 𝒆𝒕 𝒑𝒂𝒊𝒆𝒎𝒆𝒏𝒕𝒔 𝒑𝒂𝒓𝒕𝒊𝒆𝒍𝒔
 
-### Ce que j'apprends
-- Python, algorithmes
-- Backend : FastAPI, SQL / PostgreSQL
-- IA appliquée : LLM, RAG, function calling
-- Sécurité : OWASP, injection de prompt, isolation des données
+**𝑺𝒕𝒂𝒕𝒖𝒕 :** 𝒄𝒂𝒅𝒓𝒂𝒈𝒆 𝒆𝒏 𝒄𝒐𝒖𝒓𝒔, 𝒅é𝒗𝒆𝒍𝒐𝒑𝒑𝒆𝒎𝒆𝒏𝒕 à 𝒑𝒂𝒓𝒕𝒊𝒓 𝒅𝒆 𝒇é𝒗𝒓𝒊𝒆𝒓 2027.
 
-### Objectif
-Soutenance début juillet 2027, puis transformer ce mémoire en vrai produit.
+## 𝑺𝒕𝒂𝒄𝒌 𝒗𝒊𝒔é𝒆
+𝑷𝒚𝒕𝒉𝒐𝒏 · 𝑭𝒂𝒔𝒕𝑨𝑷𝑰 · 𝑷𝒐𝒔𝒕𝒈𝒓𝒆𝑺𝑸𝑳 · 𝑳𝑳𝑴 (𝑹𝑨𝑮, 𝒂𝒑𝒑𝒆𝒍 𝒅'𝒐𝒖𝒕𝒊𝒍𝒔) · 𝑫𝒐𝒄𝒌𝒆𝒓
+
+## 𝑺é𝒄𝒖𝒓𝒊𝒕é
+𝑱𝒆 𝒕𝒓𝒂𝒗𝒂𝒊𝒍𝒍𝒆 𝒍'𝑶𝑾𝑨𝑺𝑷 𝑻𝒐𝒑 10, 𝒍'𝒊𝒏𝒋𝒆𝒄𝒕𝒊𝒐𝒏 𝒅𝒆 𝒑𝒓𝒐𝒎𝒑𝒕 𝒆𝒕 𝒍'𝒊𝒔𝒐𝒍𝒂𝒕𝒊𝒐𝒏 𝒅𝒆𝒔 𝒅𝒐𝒏𝒏é𝒆𝒔 𝒆𝒏𝒕𝒓𝒆 𝒖𝒕𝒊𝒍𝒊𝒔𝒂𝒕𝒆𝒖𝒓𝒔.
+
+## 𝑴𝒆 𝒄𝒐𝒏𝒕𝒂𝒄𝒕𝒆𝒓
+𝒂𝒎𝒆16𝒓𝒊𝒂𝒍𝒆@𝒚𝒂𝒉𝒐𝒐.𝒄𝒐𝒎
